@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Il était une fois.
 test
+=======
+Il était une fois.
+la vie qui était longue
+>>>>>>> camil
